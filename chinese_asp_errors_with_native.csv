@@ -1,0 +1,4 @@
+﻿id,sentence_id,tag,quote,correction,start,end,annotation_source,native
+10335,81003,asp,назвать,называть,2,3,manual,chi
+9417,284026,asp,определить,определять,23,24,manual,chi
+10870,296121,asp,нейтрализовать,нейтрализовывать,14,15,manual,chi

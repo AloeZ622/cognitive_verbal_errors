@@ -1,0 +1,3 @@
+﻿id,sentence_id,tag,quote,correction,start,end,annotation_source,native
+1337,941007,"asp,lex",информировано,,25,26,manual,eng
+1372,961015,asp,давать,,12,13,manual,eng

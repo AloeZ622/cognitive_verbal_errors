@@ -1,0 +1,48 @@
+﻿id,sentence_id,tag,quote,correction,start,end,annotation_source,subcorpus,native,language_background,level,words,sentences
+10644,32010,"space,deriv",по- русский,по-русски,15,17,manual,HSE,chi,FL,A2,161.0,1.0
+10648,32011,"agrgender,ortho,miss",бло,была,1,2,manual,HSE,chi,FL,A2,159.0,24.0
+10650,32011,"space,deriv",по- русский,по-русски,6,8,manual,HSE,chi,FL,B1,349.0,6.0
+10654,33002,gov,равноправие,равноправия,21,22,manual,HSE,chi,FL,B1,215.0,22.0
+9689,41004,lex,власть,авторитет,6,7,manual,HSE,chi,FL,A2,81.0,6.0
+9691,41004,lex,прошли,снизились,15,16,manual,HSE,chi,FL,B2,167.0,8.0
+9349,41006,lex,составить,изложить свою,9,10,manual,,chi,FL,A1,101.0,11.0
+9350,41007,constr,научно-технологическую,научно-технической области,15,16,manual,,chi,FL,A1,105.0,8.0
+9692,41007,lex,области,вопросы,8,9,manual,HSE,chi,FL,B2,66.0,3.0
+9357,41009,"conj,constr,transfer,space",так же и,а также,9,12,manual,,chi,FL,A1,113.0,4.0
+9695,41015,constr,этом компоненте,этой сфере,2,4,manual,HSE,chi,FL,B1,91.0,5.0
+11818,58008,syntax,репрессия,репрессия против,18,19,manual,HSE,chi,FL,B1,297.0,13.0
+11821,58013,lex,происходят,проходят,15,16,manual,HSE,chi,FL,B1,292.0,6.0
+11112,61002,agrcase,распаха,распах,4,5,manual,HSE,chi,FL,B2,202.0,16.0
+10324,81001,infl,понятие,в понятиях,21,22,manual,SFEDU,chi,FL,B1,677.0,31.0
+10333,81003,"lex,transfer",Есть,Существует,0,1,manual,SFEDU,chi,FL,B1,630.0,36.0
+10334,81003,lex,склонность,тенденция,1,2,manual,SFEDU,chi,FL,B1,1192.0,64.0
+10335,81003,asp,назвать,называть,2,3,manual,SFEDU,chi,FL,B1,579.0,40.0
+10326,81005,"gov,agrcase",грамматикой,грамматики,8,9,manual,SFEDU,chi,FL,B1,734.0,38.0
+10337,81007,lex,сферам,сферам жизни,5,6,manual,SFEDU,chi,FL,B1,453.0,24.0
+8741,277003,constr,президентских кандидатов,кандидатах в президенты,8,10,manual,HSE,chi,FL,A1,99.0,8.0
+8745,277005,constr,какая разнится в мнениях между,как различаются мнения,4,9,manual,HSE,chi,FL,A1,57.0,11.0
+9417,284026,asp,определить,определять,23,24,manual,HSE,chi,FL,IH,448.0,26.0
+10264,287002,"tense,ortho,subst",ишит,будет искать,24,25,manual,HSE,chi,FL,A2,285.0,14.0
+10272,287007,"gov,prep,misspell",пойске,поиски,7,8,manual,HSE,chi,FL,A2,123.0,13.0
+10341,287009,"lex,idiom",без молодости,старым,3,5,manual,SFEDU,chi,FL,B1,586.0,40.0
+10342,287010,syntax,он, ,3,4,manual,SFEDU,chi,FL,B1,466.0,29.0
+10344,287011,"lex,idiom","без молодости,",старым,9,12,manual,SFEDU,chi,FL,B1,536.0,14.0
+10346,287015,"syntax,ortho",Почустванный,Почувствовав,0,1,manual,SFEDU,chi,FL,B1,785.0,57.0
+10347,287015,"syntax,constr,tense",покрылись,покрытый,13,14,manual,SFEDU,chi,FL,B1,317.0,15.0
+10348,287017,agrnum,заилились,заилился,10,11,manual,SFEDU,chi,FL,B1,438.0,25.0
+10350,287019,"gov,constr",городу,город,3,4,manual,SFEDU,chi,FL,B1,734.0,15.0
+10354,287019,infl,жизню,жизнь,11,12,manual,SFEDU,chi,FL,B1,463.0,20.0
+10870,296121,asp,нейтрализовать,нейтрализовывать,14,15,manual,,chi,FL,B1,289.0,25.0
+11091,297004,agrcase,явления,явление,12,13,manual,HSE,chi,FL,A1,115.0,13.0
+11097,298002,syntax,бывшие,которые были,2,3,manual,HSE,chi,FL,B2,278.0,5.0
+11098,298003,lex,показываться,появляться,4,5,manual,HSE,chi,FL,B1,153.0,13.0
+11107,298006,constr,по названию,под названием,7,9,manual,HSE,chi,FL,B2,130.0,15.0
+11108,298006,lex,обсуждает,обсуждается,16,17,manual,HSE,chi,FL,B1,160.0,19.0
+11109,298006,constr,Статья,В статье,0,1,manual,HSE,chi,FL,A1,42.0,7.0
+11110,298009,lex,состоит,заключается,5,6,manual,HSE,chi,FL,B2,213.0,10.0
+11113,298013,deriv,ориенировка,ориентация,12,13,manual,HSE,chi,FL,B1,99.0,7.0
+11114,298014,passive,становятся неправильно трактованными,неправильно трактуются,12,15,manual,HSE,chi,FL,B1,86.0,10.0
+11117,298015,lex,в зарубежье,за рубежом,15,17,manual,HSE,chi,FL,A1,73.0,2.0
+9802,1050047,"conj,transfer",и,", а",13,14,manual,HSE,chi,FL,NH,66.0,10.0
+9810,1316056,conj,и,а,19,20,manual,HSE,chi,FL,NM,140.0,16.0
+10472,1432001,"conj,lex,constr,transfer",и,,14,15,manual,SFEDU,chi,FL,B1,705.0,34.0

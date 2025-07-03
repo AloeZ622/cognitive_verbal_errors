@@ -1,0 +1,79 @@
+﻿id,sentence_id,tag,quote,correction,start,end,annotation_source,subcorpus,native,language_background,level,words,sentences
+8848,23021,lex,тоже,также,1,2,manual,HSE,eng,FL,IH,250.0,13.0
+8856,23021,lex,устроится,утроится,14,15,manual,HSE,eng,FL,IH,262.0,15.0
+43,31001,lex,строения,,7,8,manual,RULEC,eng,HL,IM,55.0,6.0
+44,31003,lex,строения,,7,8,manual,RULEC,eng,FL,IM,329.0,29.0
+48,34002,morph,восприминают,,10,11,manual,RULEC,eng,FL,IH,54.0,3.0
+9196,39002,agrgender,которую,который,4,5,manual,HSE,eng,FL,IM,333.0,49.0
+9225,39007,"lex,transfer",На,В,0,1,manual,HSE,eng,FL,IH,588.0,34.0
+9226,39007,"gov,gender",группов,групп,9,10,manual,HSE,eng,FL,IH,215.0,14.0
+9251,39018,lex,анализы,вычисления,12,13,manual,HSE,eng,FL,IH,377.0,18.0
+11556,44014,agrcase,работе,работу,26,27,manual,HSE,eng,FL,B2,218.0,19.0
+11560,44021,"infl,ortho",слова,слово,2,3,manual,HSE,eng,FL,B2,175.0,11.0
+11339,61004,"agrgender,agrnum",все,всю,24,25,manual,,eng,FL,A2,164.0,17.0
+9752,72002,"ortho,constr",последные века,последнее время,8,10,manual,HSE,eng,FL,A2,77.0,4.0
+9765,72004,"lex,transfer",город Киев,Киев,3,5,manual,HSE,eng,FL,A2,43.0,1.0
+10411,75007,lex,на самом деле,просто,15,18,manual,SFEDU,eng,FL,B1,517.0,17.0
+73,78001,"ortho,lex",созданые,,13,14,manual,RULEC,eng,FL,IH,74.0,6.0
+77,78004,syntax,автора,,6,7,manual,RULEC,eng,HL,IH,50.0,3.0
+89,78009,lex,стремление,,6,7,manual,RULEC,eng,FL,AL,97.0,11.0
+8849,266014,gov,строительства,строительство,7,8,manual,HSE,eng,FL,IH,285.0,16.0
+8852,266015,"gov,agrcase",Санкт-Петербургу,Санкт-Петербурга,10,11,manual,HSE,eng,FL,IH,213.0,14.0
+8855,266015,"misspell,deriv",вещест,веществ,22,23,manual,HSE,eng,FL,IH,231.0,12.0
+317,270007,"lex,coord",грозит,,4,5,manual,RULEC,eng,HL,AM,66.0,3.0
+320,270010,gov,Проблема,,0,1,manual,RULEC,eng,HL,IM,157.0,14.0
+325,270012,constr,решению,,3,4,manual,RULEC,eng,HL,IM,216.0,11.0
+334,270016,"ref,morph",корректировал,,19,20,manual,RULEC,eng,HL,AM,58.0,3.0
+337,270017,lex,могут,,12,13,manual,RULEC,eng,FL,AL,17.0,2.0
+9180,283013,"constr,agrcase,gov",этносам,этносов,20,21,manual,HSE,eng,FL,IH,130.0,12.0
+9187,283014,agrgender,интернационального,интернациональной,17,18,manual,HSE,eng,FL,IH,175.0,17.0
+9209,283017,agrcase,естественная часть,естественную часть,14,16,manual,HSE,eng,FL,IM,490.0,63.0
+9216,283017,"mode,tense",полагал бы,предполагает,5,7,manual,HSE,eng,FL,IH,103.0,8.0
+9266,283018,constr,существует,существовать,17,18,manual,HSE,eng,FL,IH,556.0,34.0
+352,292002,lex,желала,,1,2,manual,RULEC,eng,HL,AL,78.0,3.0
+364,303003,syntax,это,,35,36,manual,RULEC,eng,HL,IM,84.0,4.0
+373,304003,lex,заложенная,,3,4,manual,RULEC,eng,FL,AM,64.0,5.0
+382,308003,lex,представляет,,5,6,manual,RULEC,eng,HL,AL,40.0,3.0
+1326,941001,"gov,constr",Одна,,0,1,manual,RULEC,eng,HL,AL,106.0,7.0
+1327,941001,morph,сексуальнами,,17,18,manual,RULEC,eng,FL,IH,46.0,2.0
+1329,941002,morph,говорят,,1,2,manual,RULEC,eng,HL,AL,231.0,15.0
+1330,941003,"lex,constr",или,,8,9,manual,RULEC,eng,HL,IH,100.0,5.0
+1332,941004,lex,субъекта,,6,7,manual,RULEC,eng,FL,AM,376.0,21.0
+1333,941004,"ortho,gov",учреждение,,8,9,manual,RULEC,eng,HL,AM,120.0,7.0
+1335,941004,gov,формой,,18,19,manual,RULEC,eng,HL,AM,625.0,45.0
+1337,941007,"asp,lex",информировано,,25,26,manual,RULEC,eng,HL,IH,75.0,7.0
+1338,941008,lex,субъектом,,4,5,manual,RULEC,eng,FL,IM,328.0,21.0
+1339,941009,lex,субъектам,,15,16,manual,RULEC,eng,HL,AL,180.0,8.0
+1354,952003,lex,конвертированный,,10,11,manual,RULEC,eng,FL,IH,142.0,9.0
+1356,961002,syntax,В,,0,1,manual,RULEC,eng,FL,IH,394.0,21.0
+1357,961003,lex,темами,,12,13,manual,RULEC,eng,HL,AL,221.0,16.0
+1359,961005,gov,перспективы,,5,6,manual,RULEC,eng,HL,IH,314.0,23.0
+1366,961009,gov,студентов,,10,11,manual,RULEC,eng,FL,AL,826.0,53.0
+1367,961011,syntax,В,,0,1,manual,RULEC,eng,FL,AL,211.0,13.0
+1369,961015,lex,преподают,,2,3,manual,RULEC,eng,HL,IH,164.0,12.0
+1372,961015,asp,давать,,12,13,manual,RULEC,eng,FL,AL,14.0,1.0
+1408,993016,gov,преступление,,12,13,manual,RULEC,eng,FL,IH,107.0,6.0
+1410,993019,syntax,и,,4,5,manual,RULEC,eng,HL,IH,58.0,4.0
+1411,993021,lex,Этим,,0,1,manual,RULEC,eng,FL,AM,477.0,18.0
+1412,993022,syntax,по,,9,10,manual,RULEC,eng,FL,IM,61.0,4.0
+1414,993029,gov,Становление,,0,1,manual,RULEC,eng,HL,IH,114.0,8.0
+1435,999001,constr,называется,,23,24,manual,RULEC,eng,HL,AL,105.0,7.0
+1438,999004,gov,Кавказ,,10,11,manual,RULEC,eng,FL,AL,130.0,14.0
+1439,999005,"syntax,ortho",о,,3,4,manual,RULEC,eng,HL,AM,245.0,10.0
+1442,999006,gov,перевод,,16,17,manual,RULEC,eng,FL,AM,98.0,6.0
+1445,1005002,lex,преполагает,,3,4,manual,RULEC,eng,HL,AH,169.0,12.0
+1446,1005004,lex,д,,12,13,manual,RULEC,eng,HL,AM,438.0,21.0
+1447,1005006,lex,имеют,,2,3,manual,RULEC,eng,FL,AM,296.0,20.0
+1448,1005007,constr,должны бы ,должны ,5,7,manual,RULEC,eng,HL,IH,251.0,10.0
+1457,1005009,syntax,горожан,,19,20,manual,RULEC,eng,HL,AL,83.0,8.0
+1462,1005013,syntax,временем,,9,10,manual,RULEC,eng,FL,AL,130.0,10.0
+1468,1005015,lex,систематично,,2,3,manual,RULEC,eng,FL,AL,106.0,7.0
+1471,1005016,gov,воды»,,6,8,manual,RULEC,eng,FL,AM,800.0,33.0
+1472,1005016,lex,его,,10,11,manual,RULEC,eng,HL,AM,116.0,6.0
+1482,1012006,constr,если глобализация ,глобализация ,5,7,manual,RULEC,eng,HL,AM,182.0,8.0
+1486,1012007,"syntax,gov",масштабу,,6,7,manual,RULEC,eng,HL,AM,294.0,19.0
+1500,1017001,"ortho,morph",уменщается,,9,10,manual,RULEC,eng,FL,AM,253.0,18.0
+1504,1017002,"gov,ortho",пенгвинов,,9,10,manual,RULEC,eng,FL,IM,70.0,4.0
+1570,1100009,constr,Ходя,,0,1,manual,RULEC,eng,HL,IH,72.0,4.0
+1577,1103004,morph,Деревенные,,0,1,manual,RULEC,eng,FL,AM,391.0,26.0
+9769,1238008,"conj,constr",И другое,А также,0,2,manual,HSE,eng,FL,A2,58.0,6.0
