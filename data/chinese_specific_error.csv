@@ -1,6 +1,3 @@
-好的，这是对第二批数据的分类，同样在末尾追加了“specific_error”条目。
-
----
 id_x,sentence_id,tag,quote,correction,start,end,annotation_source,subcorpus,native,language_background,level,words,sentences,id_y,text,specific_error
 10644,32010,"space,deriv",по- русский,по-русски,15,17,manual,HSE,chi,FL,A2,161.0,1.0,32010,"Мое исследование о Гулаге, о городе Магадане и о его жителях было сделано и по- русский и по- английский.",Deriv-Form
 10648,32011,"agrgender,ortho,miss",бло,была,1,2,manual,HSE,chi,FL,A2,159.0,24.0,32011,Это бло моя первая возможность исследовать по- русский и проводить русский на английский.,Agr-SVPast
